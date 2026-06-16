@@ -22,6 +22,11 @@ ou simplesmente um hambiente para experimentra novas ideias em um espaço
 
 O pull request mostra as mudança na sua *branch* para outras pessoas, permitindo aceitar, rejeitar ou mudanças adicionais na sua *branch*. 
 
+### [Merge your pull request(Mesclando sua requisição de envio)](https://docs.github.com/en/get-started/quickstart/github-glossary#merge)
+
+* [ ] **Leitura de Doc**: ⏳ Em andamento
+
+> O *merge* adiciona as mudanças na sua requisição de envio e galhos no seu *main branch*.
 
 ---
 
