@@ -11,3 +11,12 @@ ou simplesmente um hambiente para experimentra novas ideias em um espaço
 * *`The specific changes`*
 * *`When the changes were(forão) made`*
 * *`Who create teh changes`*
+
+---
+
+# NOTE section (in English) - DOING -
+
+`.md` is a file extension that creates a Markdown file. You can learn more about Markdown by visiting ["Basic writing and formatting syntax"](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)in our docs or by taking the ["Communicating using Markdown"](https://github.com/skills/communicate-using-markdown) **Skills Exercise**.
+
+
+
