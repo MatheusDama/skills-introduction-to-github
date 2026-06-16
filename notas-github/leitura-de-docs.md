@@ -6,7 +6,7 @@
 > Usado como um hambiente de desenvolvimento outras partes do seu **REPOSITÓRIO**[^], as *branches*, permiten o desenvolvimento de *features*(funções/novas funções), arrumar bugs,
 ou simplesmente um hambiente para experimentra novas ideias em um espaço
 
-### [About Commits(Sobre Comitações)](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits)
+### [About Commits (Sobre Comitações)](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits)
 
 * [ ] **Leitura de Doc**: ⏳ Em andamento
 
@@ -16,7 +16,7 @@ ou simplesmente um hambiente para experimentra novas ideias em um espaço
 * *`When the changes were(forão) made`*
 * *`Who create teh changes`*
 
-### [Open a pull request(Abrindo uma requisição de envio)](https://docs.github.com/en/get-started/learning-about-github/github-glossary#pull-request)
+### [Open a pull request (Abrindo uma requisição de envio)](https://docs.github.com/en/get-started/learning-about-github/github-glossary#pull-request)
 
 * [ ] **Leitura de Doc**: ⏳ Em andamento
 
